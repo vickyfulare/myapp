@@ -96,7 +96,7 @@ section h2 {
 .aboutimg {
     width: 30%;
     float: left;
-    height: 30vh;
+    height: 40vh;
 }
 
 .about-text {
@@ -112,7 +112,7 @@ section h2 {
 
 .profileimg {
     width: 20%;
-    height: 23vh;
+    height: 30vh;
 }
 
 
@@ -205,5 +205,20 @@ footer ul li a:hover {
     }
     section h2 {
         font-size: 1.5rem;
+    }
+    .profileimg {
+        width: 65%;
+        height: 30vh;
+    }
+    .aboutimg {
+        width: 50%;
+        float: left;
+        height: 32vh;
+    }
+    .about-text {
+        margin-right: -14px;
+        align-content: space-between;
+        margin-left: 123px;
+        padding-top: 1px;
     }
 }
